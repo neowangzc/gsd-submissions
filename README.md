@@ -1,7 +1,8 @@
 # gsd-submissions (private)
 
 Inbox for outside submissions to Global Sociology Digest. Issues here are opened automatically by the
-submissions Site (`components/submissions` in `neowangzc/gsd-academic-services`). Keep this repository private:
+submission forms on the Journal Guide Site (`components/journal-guide/site/src/submissions` and
+`public/submit` in `neowangzc/gsd-academic-services`). Keep this repository private:
 comments hold submitters' contact details.
 
 ## What arrives
